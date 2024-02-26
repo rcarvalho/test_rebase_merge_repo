@@ -23,4 +23,6 @@ Things you may want to cover:
 
 * Adding one thing
 
+* Adding one more other thing
+
 * Adding the next thing
