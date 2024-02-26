@@ -21,4 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
+
+* Adding another thing
+
 * Adding one thing
